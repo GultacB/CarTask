@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CarTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C148BE5B-F110-4B28-82F5-D6B22812BFD0}|CarTask\\CarTask.csproj|c:\\users\\user\\source\\repos\\cartask\\cartask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C148BE5B-F110-4B28-82F5-D6B22812BFD0}|CarTask\\CarTask.csproj|solutionrelative:cartask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C148BE5B-F110-4B28-82F5-D6B22812BFD0}|CarTask\\CarTask.csproj|c:\\users\\user\\source\\repos\\cartask\\cartask\\carproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C148BE5B-F110-4B28-82F5-D6B22812BFD0}|CarTask\\CarTask.csproj|solutionrelative:cartask\\carproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarProperty.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarTask\\CarTask\\CarProperty.cs",
+              "RelativeDocumentMoniker": "CarTask\\CarProperty.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarTask\\CarTask\\CarProperty.cs",
+              "RelativeToolTip": "CarTask\\CarProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:21:29.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CarTask\\CarTask\\Program.cs",
+              "RelativeDocumentMoniker": "CarTask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CarTask\\CarTask\\Program.cs",
+              "RelativeToolTip": "CarTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAADFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:20:02.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
